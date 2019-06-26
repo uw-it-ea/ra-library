@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# UW-IT Enterprise Architecture Architecture Center
 
 You can use the [editor on GitHub](https://github.com/uw-it-ea/ra-library/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
